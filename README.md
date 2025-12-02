@@ -63,4 +63,4 @@ Feel free to fork this project, improve it, or add new features. Pull requests a
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
