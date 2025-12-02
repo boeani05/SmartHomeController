@@ -37,8 +37,8 @@ The project consists of the following main components:
 
 1.  Clone this repository:
     ```bash
-    git clone https://github.com/boeani05/smart-home-controller-java.git
-    cd smart-home-controller-java
+    git clone https://github.com/boeani05/SmartHomeController.git
+    cd SmartHomeController
     ```
 2.  Compile the Java files:
     ```bash
